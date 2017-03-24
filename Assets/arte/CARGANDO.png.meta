@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 8673055dcc305574eb65ae39cbf4ed16
+timeCreated: 1472899262
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CARGANDO_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: CARGANDO_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 152
+        width: 940
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 437, y: 34}
+        - {x: 470, y: 85}
+        - {x: 470, y: 138}
+        - {x: 435, y: 138}
+        - {x: 387, y: 112}
+        - {x: 296, y: 132}
+        - {x: 248, y: 125}
+        - {x: 286, y: 7}
+        - {x: 241, y: 17}
+        - {x: 80, y: -2}
+        - {x: 56, y: 3}
+        - {x: 18, y: -3}
+        - {x: -39, y: 9}
+        - {x: -71, y: -46}
+        - {x: -87, y: -50}
+        - {x: -125, y: -50}
+        - {x: -84, y: -48}
+        - {x: -75, y: -41}
+        - {x: -67, y: -6}
+        - {x: -145, y: 12}
+        - {x: -272, y: 1}
+        - {x: -301, y: 9}
+        - {x: -348, y: -5}
+        - {x: -365, y: -76}
+        - {x: -428, y: -75}
+        - {x: -370, y: -51}
+        - {x: -360, y: -20}
+        - {x: -369, y: -4}
+        - {x: -421, y: 3}
+        - {x: -454, y: -1}
+        - {x: -470, y: -38}
+        - {x: -470, y: -104}
+        - {x: -448, y: -135}
+        - {x: -432, y: -138}
+        - {x: -341, y: -138}
+        - {x: -335, y: -136}
+        - {x: -317, y: -138}
+        - {x: -48, y: -138}
+        - {x: -35, y: -132}
+        - {x: -11, y: -138}
+        - {x: 321, y: -138}
+        - {x: 351, y: -67}
+        - {x: 347, y: -7}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

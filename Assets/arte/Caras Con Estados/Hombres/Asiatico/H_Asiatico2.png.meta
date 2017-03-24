@@ -1,0 +1,89 @@
+fileFormatVersion: 2
+guid: 2c197df964f66674c971ff427ed48ba0
+timeCreated: 1472896096
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: H_Asiatico2_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: H_Asiatico2_0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 207
+        width: 210
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -71}
+        - {x: 93, y: -25}
+        - {x: 98, y: 4}
+        - {x: 80, y: 138}
+        - {x: 66, y: 147}
+        - {x: -38, y: 147}
+        - {x: -56, y: 145}
+        - {x: -99, y: 81}
+        - {x: -95, y: 66}
+        - {x: -98, y: 47}
+        - {x: -96, y: -44}
+        - {x: -68, y: -47}
+        - {x: -79, y: -97}
+        - {x: -101, y: -126}
+        - {x: -101, y: -140}
+        - {x: -99, y: -147}
+        - {x: 99, y: -147}
+        - {x: 101, y: -134}
+        - {x: 101, y: -125}
+        - {x: 80, y: -100}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
